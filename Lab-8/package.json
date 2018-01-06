@@ -1,0 +1,18 @@
+{
+  "name": "Lab_8_CS546",
+  "version": "1.0.0",
+  "description": "Palindrome Checker",
+  "main": "",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megh Vankawala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}

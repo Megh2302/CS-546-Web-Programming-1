@@ -1,0 +1,64 @@
+.m1
+{
+    text-align: center;
+    background-image: url("m1.jpg");
+    color:lightgray;
+    font-family: 'Aldrich';
+    font-size: 25px;
+    font-weight: bolder;
+}
+.error_message
+{
+    color:lightgray;
+    font-family: 'Aldrich';
+    font-size: 25px;
+    font-weight: bolder;
+}
+#m2
+{
+    z-index: 1;
+    background: lightgray;
+    max-width: 720px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: justify;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    color:darkslategray;
+    font-family: 'Aldrich';
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+
+#f1
+{
+    margin-top: 200px;
+
+}
+
+#b1
+{
+    background-color: darkgray;
+    border-radius: 12px;
+    border: 2px solid black;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    padding: 8px 25px;
+    font-family: 'Aldrich';
+    font-weight: bolder;
+}
+#b1:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+#t1,#t2
+{
+    color: black;
+    font-family: 'Aldrich';
+    font-size: 20px;
+}
+
